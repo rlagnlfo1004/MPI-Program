@@ -3,7 +3,7 @@
 
 ## 2D Heat Diffusion using MPI (MPI_Send/Recv Version)
 
-https://github.com/rlagnlfo1004/mpi-program/blob/main/heat_diffusion/heat_diffusion.c
+[이동](https://github.com/rlagnlfo1004/MPI-Program/tree/main/heat_diffusion)
 
 본 프로그램은 2차원 공간에서 열확산(heat diffusion) 과정을 시뮬레이션하는 MPI 프로그램입니다.
 
